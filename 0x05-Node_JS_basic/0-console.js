@@ -4,8 +4,7 @@
  * @author Obatula Fuad <https://github.com/Akinwalee>
  */
 const displayMessage = (msg) => {
-    console.log(msg);
-  };
-  
-  module.exports = displayMessage;
-  
+  console.log(msg);
+};
+
+module.exports = displayMessage;
